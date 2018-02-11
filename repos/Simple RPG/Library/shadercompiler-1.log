@@ -1,0 +1,543 @@
+Base path: C:/Program Files (x86)/Unity 4.7/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-160960
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=9226 outsize=2051 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (30): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=7400 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=11027 outsize=663 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=10592 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1399 outsize=473 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1228 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=1615 outsize=2246 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Vertex program 'tessvert_surf': unknown input semantics TEXCOORD/2
+
+  api=4 type=0 insize=8304 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=1130 outsize=407 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1022 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=11311 outsize=797 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (45): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=10720 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1687 outsize=333 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1655 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3183 outsize=386 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2970 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=929 outsize=330 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=904 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=992 outsize=288 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1008 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3064 outsize=476 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2769 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2769 outsize=2997 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2772 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2772 outsize=2753 kw= ok=1
+Cmd: preprocess
+  insize=2050 outsize=467 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1885 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1385 outsize=387 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1303 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2627 outsize=327 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2539 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=2691 outsize=458 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2407 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=3924 outsize=640 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3571 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1454 outsize=2191 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Vertex program 'tessvert_surf': unknown input semantics TEXCOORD/2
+
+  api=4 type=0 insize=8472 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=1229 outsize=384 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1150 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6629 outsize=781 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1950 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1300 outsize=289 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1316 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1044 outsize=883 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4808 outsize=1453 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1810 kw=POINT ok=1
+Cmd: preprocess
+  insize=3736 outsize=438 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3462 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3462 outsize=6523 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3465 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3465 outsize=6523 kw= ok=1
+Cmd: preprocess
+  insize=5962 outsize=1969 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3995 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=2911 outsize=754 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2429 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=882 outsize=277 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=910 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1511 outsize=365 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1448 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1460 outsize=326 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1440 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1867 outsize=255 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (16): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1916 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2264 outsize=330 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2180 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2180 outsize=3208 kw= ok=1
+Cmd: preprocess
+  insize=1407 outsize=330 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1379 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (38): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (39): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (40): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (878): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (879): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (880): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (1713): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (1714): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (1715): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (2548): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (2549): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (2550): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (3383): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (3384): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (3385): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (4218): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (4219): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (4220): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (5053): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (5054): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (5055): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (5888): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (5889): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (5890): Can't find include file UnityStandardUtils.cginc
+  error: 2 plat 15 at (6723): Can't find include file UnityPBSLighting.cginc
+  error: 2 plat 15 at (6724): Can't find include file UnityStandardBRDF.cginc
+  error: 2 plat 15 at (6725): Can't find include file UnityStandardUtils.cginc
+  insize=32239 outsize=1835 ok=0
+Cmd: preprocess
+  insize=1322 outsize=304 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (27): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1323 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2297 outsize=619 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1984 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=964 outsize=252 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1012 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=701 outsize=302 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=699 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6603 outsize=1037 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (38): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=5583 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2724 outsize=1661 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=439 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=32858 outsize=255 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (129): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=32905 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1198 outsize=242 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1258 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4488 outsize=504 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (51): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4170 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=7323 outsize=1000 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=6113 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=990 outsize=249 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1043 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5826 outsize=1783 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4253 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=983 outsize=331 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=927 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 15 at (17): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 15 at (211): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 15 at (405): #pragma target with unknown target: #pragma target 4.5
+  insize=6814 outsize=592 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=6246 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=13376 outsize=1899 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (97): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=11659 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1024 outsize=332 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (22): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=996 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6201 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (74): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=5471 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1933 outsize=330 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1858 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1858 outsize=2200 kw= ok=1
+Cmd: preprocess
+  insize=2833 outsize=763 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2345 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=11666 outsize=712 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=10963 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=2501 outsize=521 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2232 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=11755 outsize=2582 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (84): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=9413 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2667 outsize=1156 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (49): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1813 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4286 outsize=653 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3745 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3745 outsize=2347 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3742 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3742 outsize=2501 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3744 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3744 outsize=2834 kw= ok=1
+Cmd: preprocess
+  insize=13864 outsize=2321 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (53): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=11642 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1908 outsize=440 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1745 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1567 outsize=642 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1231 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1943 outsize=277 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1971 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5627 outsize=3184 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=474 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=26132 outsize=4137 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (49): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=21377 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4000 outsize=532 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (49): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3774 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1715 outsize=432 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1509 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1509 outsize=1745 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1509 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1509 outsize=1445 kw= ok=1
+Cmd: preprocess
+  insize=2139 outsize=280 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (32): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2161 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1166 outsize=333 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1135 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1173 outsize=435 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1013 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=737 outsize=249 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=788 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5860 outsize=855 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (38): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=5220 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6086 outsize=737 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=5519 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=584 outsize=341 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=545 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8523 outsize=1133 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=7436 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1457 outsize=506 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (28): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1253 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=32868 outsize=255 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (128): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=32915 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5284 outsize=1721 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (68): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3867 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6935 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (123): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=7001 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5497 outsize=418 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=5332 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3437 outsize=276 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3357 outsize=0 kw=__ ok=0
+Cmd: preprocess
+  insize=5318 outsize=887 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4652 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1308 outsize=384 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1226 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5893 outsize=1218 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (164): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4335 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=714 outsize=286 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=730 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=720 outsize=299 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=721 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4342 outsize=630 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=3923 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=860 outsize=276 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (21): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=889 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3433 outsize=1819 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=544 outsize=0 kw=FOG_OFF ok=0
+Cmd: preprocess
+  insize=1460 outsize=272 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1493 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2013 outsize=947 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (39): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=858 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1978 outsize=1148 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(47): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=415 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5159 outsize=700 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4722 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1079 outsize=470 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (33): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=911 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1138 outsize=364 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1079 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=511 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (27): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=572 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=717 outsize=290 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=732 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5642 outsize=920 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=4791 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1339 kw=DIRECTIONAL ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

@@ -1,0 +1,19 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1ba1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 2560x1440 120Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\dubsk\Documents\repos\Go Home\Builds\a1_Data\Managed\System.Core.dll (this message is harmless)
